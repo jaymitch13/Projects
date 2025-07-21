@@ -1,0 +1,16 @@
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\bin\Debug\net8.0-windows\Is-224 MitchelJaden Final Project 12.exe
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\bin\Debug\net8.0-windows\Is-224 MitchelJaden Final Project 12.deps.json
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\bin\Debug\net8.0-windows\Is-224 MitchelJaden Final Project 12.runtimeconfig.json
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\bin\Debug\net8.0-windows\Is-224 MitchelJaden Final Project 12.dll
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\bin\Debug\net8.0-windows\Is-224 MitchelJaden Final Project 12.pdb
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\obj\Debug\net8.0-windows\Is_224_MitchelJaden_Final_Project_12.MusicPlaylist.resources
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\obj\Debug\net8.0-windows\Is-224 MitchelJaden Final Project 12.csproj.GenerateResource.cache
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\obj\Debug\net8.0-windows\Is-224 MitchelJaden Final Project 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\obj\Debug\net8.0-windows\Is-224 MitchelJaden Final Project 12.AssemblyInfoInputs.cache
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\obj\Debug\net8.0-windows\Is-224 MitchelJaden Final Project 12.AssemblyInfo.cs
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\obj\Debug\net8.0-windows\Is-224 MitchelJaden Final Project 12.csproj.CoreCompileInputs.cache
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\obj\Debug\net8.0-windows\Is-224 MitchelJaden Final Project 12.dll
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\obj\Debug\net8.0-windows\refint\Is-224 MitchelJaden Final Project 12.dll
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\obj\Debug\net8.0-windows\Is-224 MitchelJaden Final Project 12.pdb
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\obj\Debug\net8.0-windows\Is-224 MitchelJaden Final Project 12.genruntimeconfig.cache
+C:\Users\wzhoo\OneDrive\Desktop\class\Is-224 MitchelJaden Final Project 12\obj\Debug\net8.0-windows\ref\Is-224 MitchelJaden Final Project 12.dll
