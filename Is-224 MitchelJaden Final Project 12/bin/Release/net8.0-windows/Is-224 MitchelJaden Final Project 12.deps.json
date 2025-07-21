@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Is-224 MitchelJaden Final Project 12/1.0.0": {
+        "runtime": {
+          "Is-224 MitchelJaden Final Project 12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Is-224 MitchelJaden Final Project 12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
